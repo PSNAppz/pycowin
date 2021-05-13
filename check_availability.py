@@ -7,7 +7,7 @@ from datetime import date
 today = date.today()
 today_date = today.strftime("%d-%m-%Y")  
 
-district_id = 301 # Alappuzha
+district_id = 501 # Alappuzha
 show_min_18 = False # Show Min age 18 vac centers
 min_availability = 0 # Min Capacity available
 
